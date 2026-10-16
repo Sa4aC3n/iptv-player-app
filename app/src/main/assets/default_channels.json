@@ -50,7 +50,7 @@
                          "country":  "EG",
                          "language":  "ar",
                          "backup_urls":  [
-                                             "http://95.170.215.124/live/disk1/CBC_Drama/playlist.m3u8"
+
                                          ]
                      },
                      {
@@ -3568,7 +3568,7 @@
                          "category":  "أخبار",
                          "name":  "قناة النيل للأخبار",
                          "backup_urls":  [
-                                             "http://149.100.19.226:8001/play/Nile_News"
+
                                          ],
                          "language":  "ar",
                          "country":  "EG",
@@ -3592,7 +3592,7 @@
                          "category":  "عام وترفيه",
                          "name":  "القناة المصرية الفضائية (ESC)",
                          "backup_urls":  [
-                                             "http://185.9.2.18/chid_247/index.m3u8"
+
                                          ],
                          "language":  "ar",
                          "country":  "EG",
